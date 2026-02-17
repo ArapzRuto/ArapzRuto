@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 
-Programming Languages
+🔹 Programming Languages
 
 Python
 
@@ -45,26 +45,14 @@ DBeaver
 
 ---
 
-## 📈 GitHub Stats
 
-![ArapzRuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArapzRuto&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArapzRuto&layout=compact&theme=tokyonight)
-
----
 
 ## 📌 Featured Projects
 
 ### 📊 Data Analytics
 
 - **Hospital Pharma Dashboard** – Power BI report on pharmacy performance  
-- **Sales Insights** – SQL + Power BI data model
 
-### 🧠 Machine Learning
-
-- **Deepfake Detection Research** – Python & Deep Learning
-
-*More projects coming soon… 🚀*
 
 ---
 
