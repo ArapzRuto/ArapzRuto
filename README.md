@@ -14,6 +14,12 @@
 - 🌱 Currently improving my GitHub projects and dashboards
 
 ---
+## 🎓 Education
+
+🎓 **Bachelor of Science in Statistics**  
+🏫 South Eastern Kenya University – Kitui, Kenya  
+📅 January 2014 – December 2017
+
 
 ## 🛠️ Tech Stack
 
