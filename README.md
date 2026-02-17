@@ -17,10 +17,31 @@
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Programming Languages
+
+Python
+
+SQL
+
+🔹 Data & Analytics Tools
+
+Power BI
+
+Excel
+
+🔹 Databases
+
+PostgreSQL
+
+MySQL
+
+🔹 Other Tools
+
+Git
+
+GitHub
+
+DBeaver
 
 ---
 
